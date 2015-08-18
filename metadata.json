@@ -1,0 +1,6 @@
+{
+  "name":"KDE integration plugin",
+  "version": "0.1",
+  "id": "kde-integration",
+  "roles": ["integration"]
+}
